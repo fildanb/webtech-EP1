@@ -1,1 +1,0 @@
-Manager bibliografii integrat cu easybib citation api 
